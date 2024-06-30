@@ -22,8 +22,8 @@ fi
 
 set -e
 
-export DEVICE=judyln
 export DEVICE_COMMON=sdm845-common
+export DEVICE_SPECIFIED_COMMON_DEVICE="judyln g710n g710ulm"
 export VENDOR=lge
 export VENDOR_COMMON=${VENDOR}
 
