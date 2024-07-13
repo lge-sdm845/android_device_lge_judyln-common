@@ -29,6 +29,15 @@
         <device name="SND_DEVICE_OUT_AFE_PROXY" acdb_id="18"/>
         <device name="SND_DEVICE_OUT_BUS_MEDIA" acdb_id="78"/>
         <device name="SND_DEVICE_OUT_BUS_SYS" acdb_id="78"/>
+        <device name="SND_DEVICE_IN_HANDSET_MIC_AEC" acdb_id="1131"/>
+        <device name="SND_DEVICE_IN_HANDSET_MIC_AEC_NS" acdb_id="1131"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC_AEC" acdb_id="1124"/>
+        <device name="SND_DEVICE_IN_HANDSET_DMIC_AEC_NS" acdb_id="1124"/>
+        <device name="SND_DEVICE_IN_SPEAKER_MIC_AEC" acdb_id="1125"/>
+        <device name="SND_DEVICE_IN_SPEAKER_MIC_AEC_NS" acdb_id="1125"/>
+        <device name="SND_DEVICE_IN_SPEAKER_DMIC_AEC" acdb_id="1126"/>
+        <device name="SND_DEVICE_IN_SPEAKER_DMIC_AEC_NS" acdb_id="1126"/>
+        <device name="SND_DEVICE_IN_HEADSET_MIC_AEC" acdb_id="1122"/>
         <device name="SND_DEVICE_LGE_IN_BT_SCO_MIC_NREC" acdb_id="122"/>
         <device name="SND_DEVICE_LGE_IN_BT_SCO_MIC_NREC_WB" acdb_id="123"/>
         <device name="SND_DEVICE_LGE_IN_CAMCORDER_ASMR_20_0" acdb_id="1174"/>
@@ -136,15 +145,6 @@
         <device name="SND_DEVICE_LGE_IN_VOIP_BT_SCO_MIC_NREC" acdb_id="1136"/>
         <device name="SND_DEVICE_LGE_IN_VOIP_BT_SCO_MIC_NREC_WB" acdb_id="1137"/>
         <device name="SND_DEVICE_LGE_IN_VOIP_BT_SCO_MIC_WB" acdb_id="1135"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_HANDSET_DMIC" acdb_id="1124"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_HANDSET_MIC" acdb_id="1123"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_HANDSET_SMIC" acdb_id="1131"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_HEADSET_MIC" acdb_id="1122"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_HEADSET_MIC_AEC_NS" acdb_id="1128"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_SPEAKER_DMIC" acdb_id="1126"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_SPEAKER_DMIC_NXP" acdb_id="1126"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_SPEAKER_MIC" acdb_id="1121"/>
-        <device name="SND_DEVICE_LGE_IN_VOIP_SPEAKER_SMIC" acdb_id="1125"/>
         <device name="SND_DEVICE_LGE_IN_VR_TX" acdb_id="1140"/>
         <device name="SND_DEVICE_LGE_OUT_AAT_HANDSET" acdb_id="7"/>
         <device name="SND_DEVICE_LGE_OUT_AAT_HEADSET" acdb_id="10"/>
