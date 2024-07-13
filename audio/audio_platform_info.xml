@@ -107,13 +107,6 @@
         <device name="SND_DEVICE_LGE_IN_HIFI_RECORDER_MIC_SPEECH_REVERB_180" acdb_id="1114"/>
         <device name="SND_DEVICE_LGE_IN_HIFI_RECORDER_MIC_SPEECH_REVERB_270" acdb_id="1114"/>
         <device name="SND_DEVICE_LGE_IN_HIFI_RECORDER_MIC_SPEECH_REVERB_90" acdb_id="1114"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_BT_MIC" acdb_id="1130"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_HANDSET_MIC" acdb_id="1070"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_HEADSET_MIC" acdb_id="1086"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_SPEAKER_MIC" acdb_id="1085"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_SUBMIC1" acdb_id="1071"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_SUBMIC2" acdb_id="1072"/>
-        <device name="SND_DEVICE_LGE_IN_LOOPBACK_SUBMIC3" acdb_id="1073"/>
         <device name="SND_DEVICE_LGE_IN_MICTEST_ALL_MIC" acdb_id="1300"/>
         <device name="SND_DEVICE_LGE_IN_MICTEST_HANDSET_MIC" acdb_id="1081"/>
         <device name="SND_DEVICE_LGE_IN_MICTEST_HEADSET_MIC" acdb_id="1103"/>
@@ -121,9 +114,6 @@
         <device name="SND_DEVICE_LGE_IN_MICTEST_SUBMIC1" acdb_id="1082"/>
         <device name="SND_DEVICE_LGE_IN_MICTEST_SUBMIC2" acdb_id="1083"/>
         <device name="SND_DEVICE_LGE_IN_MICTEST_SUBMIC3" acdb_id="1084"/>
-        <device name="SND_DEVICE_LGE_IN_MT_LOOPBACK_HANDSET_MIC" acdb_id="1104"/>
-        <device name="SND_DEVICE_LGE_IN_MT_LOOPBACK_SPEAKER_MIC" acdb_id="1106"/>
-        <device name="SND_DEVICE_LGE_IN_MT_LOOPBACK_THIRD_MIC" acdb_id="1108"/>
         <device name="SND_DEVICE_LGE_IN_QVOICE_VR_TX" acdb_id="1060"/>
         <device name="SND_DEVICE_LGE_IN_SUBMIC_1" acdb_id="1059"/>
         <device name="SND_DEVICE_LGE_IN_SUBMIC_2" acdb_id="1059"/>
@@ -175,16 +165,10 @@
         <device name="SND_DEVICE_LGE_OUT_FR_THD_SPEAKER_STEREO_TEST" acdb_id="1004"/>
         <device name="SND_DEVICE_LGE_OUT_HAC_EARPIECE" acdb_id="1078"/>
         <device name="SND_DEVICE_LGE_OUT_IRRC_LINEOUT" acdb_id="15"/>
-        <device name="SND_DEVICE_LGE_OUT_LOOPBACK_BT" acdb_id="1129"/>
-        <device name="SND_DEVICE_LGE_OUT_LOOPBACK_HANDSET" acdb_id="1080"/>
-        <device name="SND_DEVICE_LGE_OUT_LOOPBACK_HEADPHONES" acdb_id="1087"/>
-        <device name="SND_DEVICE_LGE_OUT_LOOPBACK_SPEAKER" acdb_id="1079"/>
         <device name="SND_DEVICE_LGE_OUT_MI2S_A2DP" acdb_id="10"/>
         <device name="SND_DEVICE_LGE_OUT_MI2S_A2DP_AND_SPEAKER" acdb_id="10"/>
         <device name="SND_DEVICE_LGE_OUT_MITS_CAMCODER_PLAY_SPEAKER_TEST" acdb_id="15"/>
         <device name="SND_DEVICE_LGE_OUT_MITS_MELODY_SPEAKER_TEST" acdb_id="15"/>
-        <device name="SND_DEVICE_LGE_OUT_MT_LOOPBACK_HANDSET" acdb_id="1105"/>
-        <device name="SND_DEVICE_LGE_OUT_MT_LOOPBACK_SPEAKER" acdb_id="1107"/>
         <device name="SND_DEVICE_LGE_OUT_PIEZO_FR_THD_TEST" acdb_id="1001"/>
         <device name="SND_DEVICE_LGE_OUT_PIEZO_ORT_TEST" acdb_id="15"/>
         <device name="SND_DEVICE_LGE_OUT_PIEZO_STEREO_SPEAKER" acdb_id="15"/>
