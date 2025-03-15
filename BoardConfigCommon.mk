@@ -17,7 +17,7 @@
 DEVICE_COMMON_PATH := device/lge/judyln-common
 
 # Inherit from common device tree
-include device/lge/sdm845-common/BoardConfigCommon.mk
+include device/lge/sdm845-common/BoardConfigJudy.mk
 
 # Kernel
 BOARD_KERNEL_CMDLINE += androidboot.hardware=judyln androidboot.fstab_suffix=judyln
